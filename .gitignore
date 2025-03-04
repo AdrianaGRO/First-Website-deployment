@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Flask instance folder
+instance/
+
+# Ignore environment files
+.env
+
